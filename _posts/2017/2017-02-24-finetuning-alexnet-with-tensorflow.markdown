@@ -32,7 +32,7 @@ To start finetune AlexNet, we first have to create the so-called "Graph of the M
 Let's first look onto the model structure as shown in the original paper:
 
 <div class="fig figcenter fighighlight">
-  <img src="/images/finetune_alexnet/alexnet.png">
+  <img src="/images/finetune_alexnet/alexnet.png" width="200" height="400">
   <div class="figcaption"><br> Architecture of AlexNet, as shown in the original paper (link above).<br>
   </div>
 </div>
